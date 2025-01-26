@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     color: #ffffff;
-    font-family:"inter"sans-serif;
+ 
 }
 
 #Primary{
@@ -45,6 +45,64 @@ button{
     margin-top: 38px;
     border: none;
     
-    box-shadow: 3px 2px 4px 0px #0C70F240;
+    box-shadow: 3px 2px 4px 0px #0C70F2;
 }
+
+header{ 
+    background:linear-gradient(180deg, rgb(37, 125, 240) 35%, rgb(2, 11, 24) 45%);
+    margin-top: -37px;
+    height: 900px; 
+}
+ h1{
+    padding-top: 40px;
+    margin-left: 35%;
+    font-size: 55px;
+ }
+ p{
+    padding-top: 40px;
+    margin-left:27%;
+    font-size: 29px;
+    font-weight: 600;
+    padding-bottom: 40px;
+    
+ }
+ span{
+    background-color: black;
+ }
+.color{
+   background-color: #237becef;
+   color: #237becef;
+}
+ form{
+    margin-top: 90px;
+    margin-left: 24%;
+    padding-bottom: 10px;
+ }
+ .labels{
+    margin-left: 44px;
+    margin-top: 5;
+    font-size: 20px;
+ }
+ #inputs{
+    margin-left: 50px;
+ }
+ .inputs{
+    margin-left:40px ;
+    margin-top: 5px;
+    width: 500px;
+    height: 26px;
+    gap: 0px;
+    border-radius: 10px ;
+    border: none;
+}
+form button{
+     margin-left: 38px;
+     width:500px ;
+     border: none;
+     border-radius:10px ;
+     box-shadow: none;
+     font-size:15px ;
+}
+  
+   
 
